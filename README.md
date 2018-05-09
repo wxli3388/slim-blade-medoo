@@ -1,3 +1,8 @@
+## install
+```shell
+composer install
+```
+
 ## back-end
   1. blade template engine for rendering
   2. medoo database framework
