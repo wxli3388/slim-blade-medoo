@@ -1,0 +1,21 @@
+{
+    "name": "wayne/slim-framework",
+    "license": "MIT",
+    "authors": [{
+        "name": "wayne",
+        "email": "wxli3388@gmail.com"
+    }],
+    "require": {
+        "slim/slim": "^3.10",
+        "catfan/medoo": "^1.5",
+        "almasaeed2010/adminlte": "~2.4",
+        "duncan3dc/blade": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "App\\": "app/"
+        },
+        "classmap": ["src/", "app/"]
+    }
+}
