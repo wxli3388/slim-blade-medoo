@@ -1,3 +1,8 @@
+## Introduction
+slim micro framework to handle http request  
+blade template engine to do rendering  
+medoo framework to communicate with database  
+
 ## install
 ```shell
 composer install
