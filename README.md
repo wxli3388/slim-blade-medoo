@@ -19,9 +19,10 @@ composer install
 
 
 ## example image
-description: 
-Test data comes from https://www.ptt.cc/bbs/Stock/index.html
-Crawls web pages through python suite BeautifulSoup4
-select articles data from database and do server-side-rendering by blade
+Description:  
+
+Test data comes from https://www.ptt.cc/bbs/Stock/index.html  
+Crawls web pages through python suite BeautifulSoup4  
+select articles data from database and do server-side-rendering by blade  
 
 ![圖片失效](https://i.imgur.com/fuNuXyO.png)
